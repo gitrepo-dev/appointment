@@ -4,19 +4,22 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+(1) Install node.js in your mechine/computer
 
+(2) Go and github using link and clone in your local computer
+
+(3) Now open in your favorite editor this folder
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+(4) After this run cmd in app folder "npm i" it will setup all like typscript, tailwind itself
+
+(5) now run cmd "npm run dev" and goto your favorite browser and type localhost:3000
+
+(6) for build run cmd "npm run build"
+
+
+NOTE: Appointment create delete and all functionality will work only in local because it DATEBASE not hosted anywhere you can create your own APIs and use the functionality
+
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
