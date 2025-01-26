@@ -2,20 +2,19 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+o run the development server, follow these steps:
 
-(1) Install node.js in your mechine/computer
+1. Install Node.js on your computer.
 
-(2) Go and github using link and clone in your local computer
+2. Visit GitHub using the provided link and clone the repository to your local machine.
 
-(3) Now open in your favorite editor this folder
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Open the cloned folder in your preferred code editor.
 
-(4) After this run cmd in app folder "npm i" it will setup all like typscript, tailwind itself
+4. In the app folder, open the command line and run the command `npm install`. This will install all necessary dependencies, including TypeScript and Tailwind CSS.
 
-(5) now run cmd "npm run dev" and goto your favorite browser and type localhost:3000
+5. Next, run the command `npm run dev` in the terminal. Then, open your browser and navigate to [http://localhost:3000](http://localhost:3000) to see the results.
 
-(6) for build run cmd "npm run build"
+6. To create a production build, run the command `npm run build`.
 
 
 NOTE: Appointment create delete and all functionality will work only in local because it DATEBASE not hosted anywhere you can create your own APIs and use the functionality
